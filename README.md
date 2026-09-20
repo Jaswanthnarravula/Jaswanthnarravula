@@ -76,19 +76,25 @@ I build the backend systems other applications depend on — identity providers,
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=go,java,python,ts,js,bash&theme=dark&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,go,python,c,cpp,ts,js,bash&theme=dark&perline=8)](https://skillicons.dev)
 
-**Backend & Frameworks**
+**Backend & Microservices**
 
-[![Backend](https://skillicons.dev/icons?i=spring,fastapi,flask,react,vite&theme=dark&perline=5)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate,nodejs,fastapi,flask&theme=dark&perline=5)](https://skillicons.dev)
 
-**Data & Infrastructure**
+**Data & Storage**
 
-[![Data](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,docker,nginx,linux&theme=dark&perline=7)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch&theme=dark&perline=4)](https://skillicons.dev)
 
-**Cloud, CI/CD & Tooling**
+**Frontend**
 
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,githubactions,git,postman,pytorch&theme=dark&perline=6)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,redux,vite,tailwind&theme=dark&perline=4)](https://skillicons.dev)
+
+**Engineering Tools, Cloud & CI/CD**
+
+[![Tools](https://skillicons.dev/icons?i=maven,docker,git,githubactions,selenium,postman,linux,aws,azure&theme=dark&perline=9)](https://skillicons.dev)
+
+<sub>Also: SQL · Spring Data JPA · REST APIs · OpenAPI/Swagger · SQLAlchemy · JUnit 5 · Mockito · OAuth 2.1 · OpenID Connect · PKCE · JWT (RS256/JWKS) · Argon2id · RBAC · SSO / Microsoft Entra ID · rate limiting · CSRF · event-driven architecture · idempotency · retry and backoff · horizontal scaling · fault tolerance</sub>
 
 </div>
 
