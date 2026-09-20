@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:1E3A8A,100:2563EB&height=170&section=header&text=Jaswanth%20Narravula&fontSize=40&fontColor=FFFFFF&fontAlignY=34&desc=Backend%20Engineer%20%C2%B7%20Identity%2C%20Distributed%20Systems%2C%20Data-Intensive%20Services&descAlignY=56&descSize=16" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&height=45&lines=Backend+Engineer+%C2%B7+Identity+and+Distributed+Systems;OAuth+2.1+and+OpenID+Connect%2C+built+from+scratch+in+Go;Java+17+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+PostgreSQL+performance)](https://github.com/Jaswanthnarravula)
+
 **Software Engineer @ Xclusive Trading Inc.** &nbsp;·&nbsp; **M.S. Computer Science, University of Alabama at Birmingham**
 
 Go &nbsp;·&nbsp; Java 17 &nbsp;·&nbsp; Python &nbsp;—&nbsp; OAuth 2.1 / OpenID Connect &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; PostgreSQL Performance
@@ -118,6 +120,10 @@ I build the backend systems other applications depend on — identity providers,
 ---
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jaswanthnarravula&hide_border=true&background=0D1117&stroke=1F2937&ring=2563EB&fire=F97316&currStreakLabel=E5E7EB&sideNums=E5E7EB&currStreakNum=60A5FA&dates=9CA3AF&sideLabels=60A5FA" width="72%" alt="GitHub Contribution Streak" />
+
+<br/>
 
 **Sugar Land, Texas** &nbsp;·&nbsp; open to backend and distributed-systems roles
 
