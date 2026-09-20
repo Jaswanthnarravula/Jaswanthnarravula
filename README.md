@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Jaswanth%20Narravula&fontSize=40&fontColor=fff&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%94%20Identity%2C%20Distributed%20Systems%20%26%20Data-Intensive%20Services&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:1E3A8A,100:2563EB&height=170&section=header&text=Jaswanth%20Narravula&fontSize=40&fontColor=FFFFFF&fontAlignY=34&desc=Backend%20Engineer%20%C2%B7%20Identity%2C%20Distributed%20Systems%2C%20Data-Intensive%20Services&descAlignY=56&descSize=16" width="100%"/>
 
 **Software Engineer @ Xclusive Trading Inc.** &nbsp;·&nbsp; **M.S. Computer Science, University of Alabama at Birmingham**
 
@@ -119,17 +119,11 @@ I build the backend systems other applications depend on — identity providers,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=22C55E&ring_color=6366F1&rank_icon=github" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthnarravula&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&langs_count=6" height="180" alt="Top Languages" />
-
-<br/><br/>
-
 **Sugar Land, Texas** &nbsp;·&nbsp; open to backend and distributed-systems roles
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaswanth-narravula)
 [![Email](https://img.shields.io/badge/Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthnarravula@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,40:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
