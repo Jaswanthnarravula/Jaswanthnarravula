@@ -1,159 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaswanth%20Narravula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Masters%20in%20Computer%20Science%20%40%20University%20of%20Alabama%20at%20Birmingham&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Jaswanth%20Narravula&fontSize=40&fontColor=fff&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%94%20Identity%2C%20Distributed%20Systems%20%26%20Data-Intensive%20Services&descAlignY=56&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Systems+Builder;Building+scalable%2C+production-grade+software)](https://git.io/typing-svg)
+**Software Engineer @ Xclusive Trading Inc.** &nbsp;·&nbsp; **M.S. Computer Science, University of Alabama at Birmingham**
 
-</div>
-
----
-## Core Strengths
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### Backend Engineering
-- Python
-- FastAPI
-- Flask
-- Node.js
-- REST APIs
-- GraphQL
-- WebSockets
-
-</td>
-<td width="33%" valign="top">
-
-### Frontend & Product
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Responsive UI
-- Component architecture
-
-</td>
-<td width="33%" valign="top">
-
-### Cloud & Data
-- AWS
-- Azure
-- Docker
-- Kubernetes
-- PostgreSQL
-- MongoDB
-- Redis
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-## Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### Languages
-[![Languages](https://skillicons.dev/icons?i=python,ts,js,java,bash&theme=dark&perline=5)](https://skillicons.dev)
-
-### Backend & APIs
-[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql,postgres&theme=dark&perline=5)](https://skillicons.dev)
-
-### Cloud & DevOps
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,githubactions,linux&theme=dark&perline=7)](https://skillicons.dev)
-
-</td>
-<td width="60%" valign="top" align="center">
-
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5)](https://skillicons.dev)
-
-### Databases
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&theme=dark&perline=5)](https://skillicons.dev)
-
-### AI / ML & Tools
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,vscode,postman&theme=dark&perline=5)](https://skillicons.dev)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## What I Build
-
-- **Production-ready web applications** with clean architecture and maintainable codebases
-- **Backend services and automation pipelines** for data processing, reporting, and operations
-- **Modern dashboards and internal tools** with a strong focus on usability and reliability
-- **AI/ML-integrated systems** that connect practical business workflows with intelligent features
-
----
-
-## Featured Work
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Portfolio Website** | Personal portfolio built with a modern frontend stack and deployed for professional presentation | Next.js · TypeScript · Tailwind CSS |
-| **Full-Stack Applications** | End-to-end product development across frontend, backend, APIs, authentication, and databases | React · Node.js · Python · PostgreSQL |
-| **Automation & Analytics Workflows** | Reporting, data ingestion, and process automation for operational systems | Python · PostgreSQL · APIs |
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=22C55E&ring_color=6366F1&rank_icon=github" height="190" alt="GitHub Stats" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthnarravula&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" height="190" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jaswanthnarravula&hide_border=true&background=0D1117&stroke=1F2937&ring=F97316&fire=FB923C&currStreakLabel=FDBA74&sideNums=E5E7EB&currStreakNum=F97316&dates=9CA3AF&sideLabels=FB923C" width="75%" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanthnarravula&bg_color=0D1117&color=F8FAFC&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Portfolio**](https://github.com/Jaswanthnarravula/Portfolio-Jaswanth) | Personal portfolio website — fast, responsive, production-deployed | Next.js · TypeScript · Tailwind CSS |
-
-> 💡 More projects coming soon — stay tuned!
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
+Go &nbsp;·&nbsp; Java 17 &nbsp;·&nbsp; Python &nbsp;—&nbsp; OAuth 2.1 / OpenID Connect &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; PostgreSQL Performance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaswanth-narravula)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Jaswanthnarravula/Portfolio-Jaswanth)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthnarravula@gmail.com)
 
 </div>
 
 ---
 
+## What I Work On
+
+I build the backend systems other applications depend on — identity providers, service boundaries, and the data layer underneath them.
+
+- **Identity and access.** Engineered a standards-based **OAuth 2.1 / OpenID Connect** provider in Go — authorization code flow with PKCE, refresh-token rotation, RS256-signed JWTs, automated JWKS key rotation, Argon2id credential hashing, and RBAC. It is the central SSO provider for internal applications, delivering single sign-on to **3,000+ users**.
+- **Service decomposition.** Decomposed a production platform into **6 microservices** with isolated failure domains, so one degraded service no longer takes the platform down with it. Rebuilt its ETL workflows to be idempotent and replay-safe with exponential backoff — a retried or partially failed batch reprocesses cleanly instead of writing duplicates.
+- **Database performance.** Cut report-generation time by **~60%** through PostgreSQL execution-plan analysis, targeted indexing, query optimization, and denormalized reporting tables over **50M+ rows**, supporting 8+ production services.
+- **API design and hardening.** Stateless REST APIs secured with Microsoft Entra ID SSO over OIDC, RS256 JWT validation, and route-level RBAC — sustaining **sub-200 ms p95** latency under production monitoring, with per-IP rate limiting, CSRF protection, HSTS/CSP, and audit logging.
+
+---
+
+## Engineering Focus
+
+<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### Backend & Distributed Systems
+- Go, Java 17, Python
+- Spring Boot · Spring Data JPA
+- FastAPI · Flask
+- Microservices & REST APIs
+- Concurrency & transactional integrity
+- Idempotent, replay-safe ETL
+
+</td>
+<td width="33%" valign="top">
+
+### Identity & Security
+- OAuth 2.1 · OpenID Connect
+- PKCE, refresh-token rotation
+- RS256 JWT · JWKS key rotation
+- Argon2id · RBAC · audit logging
+- Microsoft Entra ID / Azure AD SSO
+- Rate limiting, CSRF, HSTS/CSP
+
+</td>
+<td width="33%" valign="top">
+
+### Data & Platform
+- PostgreSQL · MySQL · Redis
+- Query plans, indexing, tuning
+- Elasticsearch · Celery queues
+- Docker · Nginx · Linux
+- GitHub Actions CI/CD
+- AWS · Azure
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## Tech Stack
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+**Languages**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jaswanthnarravula&color=6AD3F7&style=flat-square&label=Profile+Views)
+[![Languages](https://skillicons.dev/icons?i=go,java,python,ts,js,bash&theme=dark&perline=6)](https://skillicons.dev)
+
+**Backend & Frameworks**
+
+[![Backend](https://skillicons.dev/icons?i=spring,fastapi,flask,react,vite&theme=dark&perline=5)](https://skillicons.dev)
+
+**Data & Infrastructure**
+
+[![Data](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,docker,nginx,linux&theme=dark&perline=7)](https://skillicons.dev)
+
+**Cloud, CI/CD & Tooling**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,githubactions,git,postman,pytorch&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Selected Work
+
+> Built and maintained in production at Xclusive Trading Inc. and IBM. Source is proprietary and not publicly available.
+
+| Project | What It Does | Stack |
+|---------|--------------|-------|
+| **Enterprise SSO Identity Provider** | OAuth 2.1 + OpenID Connect provider written from scratch — the same standards Entra ID, Okta and Google Cloud IAM implement, not a wrapper around them. PKCE, automatic JWKS rotation, 4-tier RBAC, admin session management, 15+ client integration examples. | Go 1.22 · Chi v5 · PostgreSQL · RS256 JWT · Argon2id · Nginx · systemd |
+| **Full-Stack Sales Platform** | Internal sales platform in daily production use: React + Vite frontend over 6 independent Python microservices with isolated failure boundaries, JWT role propagation from the internal SSO provider, and replayable ETL pipelines. | React · Vite · Python · Flask · FastAPI · PostgreSQL · REST |
+| **Workforce Management Backend** | Async-first FastAPI backend serving all internal management tiers — Azure AD SSO over OIDC, real-time WebSocket notifications with heartbeat and reconnection, 4-tier route-level RBAC, calendar scheduling with recurrence rules. | Python · FastAPI · PostgreSQL · SQLAlchemy · WebSockets · Azure AD · Docker |
+| **Price Intelligence Platform** | Asynchronous ingestion pipeline over unreliable external sources: Celery/Redis task orchestration with retry and failure handling, Elasticsearch fuzzy search, cross-retailer ranking, and price-history analytics. | FastAPI · Celery · Redis · Elasticsearch · PostgreSQL · Docker Compose |
+| **Corporate Loan Processing Platform** &nbsp;<sub>IBM · DBS Bank</sub> | 10+ production REST APIs automating loan intake, eligibility validation and multi-stage approvals, built around a state-driven workflow engine with optimistic locking to keep concurrent approvals from landing in invalid states. **API response times reduced 30%.** | Java 17 · Spring Boot · JPA/Hibernate · MySQL · Redis · JUnit 5 · Mockito |
+| **ASL Gesture Recognition** &nbsp;<sub>Graduate research</sub> | PyTorch pipeline for 24 static ASL gestures. Transfer learning with ResNet-18 lifted test accuracy from 13.21% to 43.36% and macro-F1 from 0.081 to 0.351, with macro-F1 tracked alongside accuracy so class imbalance couldn't hide the gains. | Python · PyTorch · ResNet-18 |
+
+---
+
+## Education & Credentials
+
+- **M.S. Computer Science** — University of Alabama at Birmingham *(Jan 2024 – Dec 2025)*
+  <sub>Database Systems · Software Design & Integration · Machine Learning · Deep Learning · Computer Vision · Network, Computer & Cloud Security</sub>
+- **B.Tech Computer Science** — Jawaharlal Nehru Technological University Hyderabad *(2019 – 2023)*
+  <sub>Data Structures & Algorithms · Operating Systems · Distributed Systems · Compiler Design · Cryptography & Network Security</sub>
+- **AWS Cloud Architecting** and **AWS Machine Learning Foundations** — Amazon Web Services
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=22C55E&ring_color=6366F1&rank_icon=github" height="180" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthnarravula&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&langs_count=6" height="180" alt="Top Languages" />
+
+<br/><br/>
+
+**Sugar Land, Texas** &nbsp;·&nbsp; open to backend and distributed-systems roles
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaswanth-narravula)
+[![Email](https://img.shields.io/badge/Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthnarravula@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
